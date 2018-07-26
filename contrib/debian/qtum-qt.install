@@ -1,0 +1,6 @@
+usr/local/bin/Predix-qt usr/bin
+share/pixmaps/Predix32.xpm usr/share/pixmaps
+share/pixmaps/Predix16.xpm usr/share/pixmaps
+share/pixmaps/Predix128.png usr/share/pixmaps
+debian/Predix-qt.desktop usr/share/applications
+debian/Predix-qt.protocol usr/share/kde4/services/

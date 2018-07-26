@@ -1,0 +1,11 @@
+[Protocol]
+exec=Predix-qt '%u'
+protocol=Predix
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
